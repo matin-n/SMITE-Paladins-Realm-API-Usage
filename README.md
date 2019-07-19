@@ -7,9 +7,9 @@ Example usage of HiRez API written in GoLang.
 
 
 **Sessions**
-Each session lasts for 15minutes each.
+- Each session lasts for 15minutes each.
 
-**Rate Limits**  <br />
+**Rate Limits** 
 - concurrent_sessions:  5 <br />
 - sessions_per_day: 500 <br />
 - session_time_limit:  15 minutes <br />
