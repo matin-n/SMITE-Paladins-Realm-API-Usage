@@ -1,5 +1,5 @@
 # SMITE-Paladins-Realm-API-Usage
-Example usage of HiRez API
+Example usage of HiRez API written in GoLang.
 
 Sessions last for 15minutes each.
 
